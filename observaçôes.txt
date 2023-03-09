@@ -1,0 +1,18 @@
+php artisan make:controller <nome do controller>
+(para criar o controller que ira fazer todos os esquemas logicos para ai sim passar a view)
+
+
+php artisan make:migration <nome da migração do banco de dados>
+
+php artisan migrate
+(rodando as tabelas para o banco de dados)
+
+php artisan make:migrate <nome da tabela> 
+(para criar uma nova tabela)
+
+
+
+
+
+
+quando for criar uma view não esquecer do .blade.php
